@@ -38,6 +38,8 @@ plt.plot(x,y_pred, color = "orange")
 plt.show()
 ```
 ## Output:
-![OUTPUT](https://github.com/Oviya24032K6/Univariate-Linear-Regression/assets/147139999/0b2efad0-9769-464a-9e02-23eb194ae942)
+![OUTPUT](https://github.com/Oviya24032K6/Univariate-Linear-Regression/assets/147139999/2ce77cd2-f445-410f-9a69-56ce17fade9e)
+
+
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
